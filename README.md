@@ -19,7 +19,7 @@ O pacote "image_processing-test" é usado para:
 	
 
 ---------------------------------------------
-## Passo a passo da configuração para hospedar um pacote em Python no ambiente de testes Test Pypi
+## Passo a passo da configuração para hospedar um pacote em Python no ambiente de testes Test Pypi:
 
 - [x] Instalação das últimas versões de "setuptools" e "wheel"
 
